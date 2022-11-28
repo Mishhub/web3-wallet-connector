@@ -1,0 +1,21 @@
+# Dependency directories
+node_modules/
+
+dist
+yarn-error.log
+
+# Logs
+*.log
+
+# TypeScript cache
+*.tsbuildinfo
+
+# npm cache directory
+.npm
+
+# eslint cache
+.eslintcache
+
+# vscode
+.vscode
+.vscode-test
